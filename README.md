@@ -1,16 +1,32 @@
-# raidereats_riders_app
+# Project Overview
 
-A new Flutter project.
+This project is a mobile application built with Flutter framework, Dart programming language, and Firebase as the database. The application, Raider One, integrates two primary applications: Raider Eats and Raider Ride.
 
-## Getting Started
+Raider Eats is a food delivery app that allows riders to deliver food that students order on the Texas Tech University campus, making it easier for riders to earn money while helping students receive food from their desired restaurants.
 
-This project is a starting point for a Flutter application.
+To fulfill its total functionality, Raider Eats is composed of three subtotal applications: the Sellers App, the Delivery App, and the Customers App. The Sellers App is exclusively for restaurant owners who want to sell their food through the application, while the Delivery App is designed for riders who want to offer their delivery services to students. The Customers App is for students who want to order food from their favorite restaurants.
 
-A few resources to get you started if this is your first Flutter project:
+# Authors
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Edwin Perez
+Seth Dornak
+Neela Anand
+Ian Carpenter
+Jigar Patel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Required Environments
+Dart SDK
+Flutter SDK
+Android Studio
+
+
+# Installing Required Packages (CMD)
+flutter packages get
+flutter packages upgrade
+
+# Resources
+Flutter Docs
+Firebase Docs
+
+# Contribution
+Please read the contribution guide to learn more.
